@@ -1,0 +1,8 @@
+database:
+  connection:
+    host: localhost
+    port: 6900
+  login:
+    user: myuser
+    password: secret
+    databasename: mydatabase

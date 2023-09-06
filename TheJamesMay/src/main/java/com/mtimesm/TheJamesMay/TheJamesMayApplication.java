@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TheJamesMayApplication {
 
 	public static void main(String[] args) {
+		var dbUrl =
 		SpringApplication.run(TheJamesMayApplication.class, args);
 	}
 
